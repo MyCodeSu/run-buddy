@@ -12,3 +12,5 @@ https://mycodesu.github.io/run-buddy
 
 ## Contribution
 Made with ❤️ by Michael Su
+
+### &copy2019 Run Buddy, Inc
